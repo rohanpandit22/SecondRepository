@@ -1,2 +1,3 @@
 Hello and welcome to git. 
 Adding Line 2 to this file.
+Adding Line 3 to this file
